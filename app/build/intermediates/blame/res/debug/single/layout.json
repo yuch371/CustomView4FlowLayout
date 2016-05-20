@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\workspace\\android_as_git\\CustomView4FlowLayout\\customview4flowlayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text.xml",
+        "source": "D:\\workspace\\android_as_git\\CustomView4FlowLayout\\customview4flowlayout\\app\\src\\main\\res\\layout\\text.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android_as_git\\CustomView4FlowLayout\\customview4flowlayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workspace\\android_as_git\\CustomView4FlowLayout\\customview4flowlayout\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android_as_git\\CustomView4FlowLayout\\customview4flowlayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "D:\\workspace\\android_as_git\\CustomView4FlowLayout\\customview4flowlayout\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    }
+]
